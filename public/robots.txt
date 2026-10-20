@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anisere-akinade.vercel.app/sitemap.xml
